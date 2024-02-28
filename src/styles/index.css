@@ -10,3 +10,10 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+.card{
+    width: 50px;
+    
+}
+.real-black{
+    background-color: black;
+}
